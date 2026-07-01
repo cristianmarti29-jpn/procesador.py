@@ -34,8 +34,9 @@ class AppProcesador:
 
         # Palabra clave
         tk.Label(self.root, text="Palabra o parámetro a buscar (Ej: ERROR, CRITICAL, INFO):", bg="#1e1e1e", fg="#00ffcc", font=("Arial", 10, "bold")).pack(anchor="w", padx=20, pady=(15, 2))
-        self.entrada_clave = tk.Entry(self.root, bg="#2d2d2d", fg="#ffffff", bd=1, insertbackground="white", font=("Arial", 10))
-        self.entrada_clave.pack(anchor="w", padx=20, ipady=4, width=25)
+       # CÓDIGO CORREGIDO (Reemplázalo por esto)
+        self.entrada_clave = tk.Entry(self.root, bg="#2d2d2d", fg="#ffffff", bd=1, insertbackground="white", font=("Arial", 10), width=25)
+        self.entrada_clave.pack(anchor="w", padx=20, ipady=4)
         self.entrada_clave.insert(0, "ERROR")
 
         # Salida de archivo
