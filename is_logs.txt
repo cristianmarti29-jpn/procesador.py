@@ -1,0 +1,6 @@
+2026-06-30 10:00:00 [INFO] Sistema de autenticación iniciado.
+2026-06-30 10:05:23 [DEBUG] Intentando conectar con la base de datos...
+2026-06-30 10:05:25 [ERROR] Conexión rechazada: contraseña incorrecta para usuario 'admin'.
+2026-06-30 10:10:12 [INFO] Intento de reconexión programado en 5 minutos.
+2026-06-30 10:15:00 [ERROR] Desbordamiento de búfer detectado en el puerto 443.
+2026-06-30 10:20:45 [CRITICAL] El sistema se ha detenido inesperadamente.
