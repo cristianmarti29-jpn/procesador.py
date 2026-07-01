@@ -15,5 +15,5 @@ Este proyecto implementa buenas prácticas de desarrollo de software, separando 
 - **OS & Datetime Modules** ## 🚀 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   https://github.com/cristianmarti29-jpn/procesador.py.git
+  git clone  https://github.com/cristianmarti29-jpn/procesador.py.git
    
